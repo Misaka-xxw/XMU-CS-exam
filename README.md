@@ -1,7 +1,13 @@
 # XMU-CS-exam 🎓
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)]()
-[![GitHub Clones](https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Misaka-xxw/624869fa2abd4a4eaec5277bb3354c89/raw/XMU-CS-exam_clone.json&logo=github)]()
-[![GitHub Views](https://views.whatilearened.today/views/github/Misaka-xxw/XMU-CS-exam.svg)]()
+[![GitHub Stars](https://img.shields.io/github/stars/Misaka-xxw/XMU-CS-exam?style=flat-square&logo=github&color=ff69b4)](https://github.com/Misaka-xxw/XMU-CS-exam/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/Misaka-xxw/XMU-CS-exam?style=flat-square&logo=github&color=32CD32)](https://github.com/Misaka-xxw/XMU-CS-exam/network)
+[![GitHub License](https://img.shields.io/github/license/Misaka-xxw/XMU-CS-exam?style=flat-square&logo=opensourceinitiative&color=blue)](https://github.com/Misaka-xxw/XMU-CS-exam/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Misaka-xxw/XMU-CS-exam?style=flat-square&logo=git&color=FF8C00)](https://github.com/Misaka-xxw/XMU-CS-exam/commits/main)
+[![GitHub Views](https://views.whatilearened.today/views/github/Misaka-xxw/XMU-CS-exam.svg?style=flat-square&logo=github)](https://github.com/Misaka-xxw/XMU-CS-exam)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-pink?style=flat-square)](https://github.com/Misaka-xxw/XMU-CS-exam)
+[![Repo Size](https://img.shields.io/github/repo-size/Misaka-xxw/XMU-CS-exam?style=flat-square)](https://github.com/Misaka-xxw/XMU-CS-exam)
+[![Contributors](https://img.shields.io/github/contributors/Misaka-xxw/XMU-CS-exam?style=flat-square)](https://github.com/Misaka-xxw/XMU-CS-exam/graphs/contributors)
+[![XMU CS](https://img.shields.io/badge/厦门大学-计算机科学与技术-blue?style=flat-square&logo=gitbook)](https://github.com/Misaka-xxw/XMU-CS-exam)
 
 ---
 
