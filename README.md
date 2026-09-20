@@ -63,6 +63,7 @@
 [软件工程](软件工程)
 ### 其它
 [XMUOJ](XMUOJ)
+[计算机图形学](计算机图形学)
 
 ## 🤝如何贡献
 
@@ -93,7 +94,6 @@
 ## 🌟贡献者
 
 感谢所有为本项目做出贡献的同学们！
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -125,8 +125,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ---
 
